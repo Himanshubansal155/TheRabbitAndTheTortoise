@@ -32,11 +32,6 @@ public class Tortoise implements Runnable {
                 case 3:
                     System.out.println("The Tortoise has reached the Big Oak Tree!");
                     System.out.println("The Tortoise is Now leading the Rabbit");
-                    // try {
-                    //     Thread.sleep(1000L);
-                    // } catch (InterruptedException e) {
-                    //     System.err.println("The Tortoise's sleep got interrupted!");
-                    // }
                     break;
                 case 4:
                     System.out.println("The Tortoise has reached the finish line!");
